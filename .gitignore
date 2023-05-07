@@ -1,3 +1,7 @@
+# Unnecessary folders
+.vscode
+out
+
 # Prerequisites
 *.d
 

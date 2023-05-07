@@ -1,0 +1,3 @@
+[submodule "3rdParty/TargomanCMake"]
+	path = 3rdParty/TargomanCMake
+	url = https://github.com/targoman/TargomanCMake
